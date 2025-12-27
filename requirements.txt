@@ -1,0 +1,7 @@
+
+rich
+typer
+pydantic
+jinja2
+graphviz
+pytest
